@@ -13,6 +13,7 @@ This project focuses on predicting defaulters for a Singapore-based bank's loan 
 - [Visualization and Dashboard](#visualization-and-dashboard)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
