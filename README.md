@@ -57,7 +57,7 @@ The models were developed using a classification approach, and the best model ac
 
 We utilized the actual test dataset, predictions, and other insights to create an informative dashboard using Power BI. The dashboard provides an overview of loan default predictions, helping stakeholders make informed decisions.
 
-![Singapore Credit Data visualization(LR)](https://github.com/sa-1-2/Singapore_loan_default_classification/assets/92681055/5c023a30-95dd-4267-a1c7-0f349a18a6e7)
+![Singapore Credit Data visualization(LR)](https://github.com/sa-1-2/DATA_PRODUCT_Singapore_Loan_Default_Classification/assets/92681055/a83f6539-bac0-4f7d-8a45-fa3b825b1d59)
 
 
 ## Contributing
